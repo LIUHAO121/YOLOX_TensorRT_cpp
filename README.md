@@ -72,6 +72,8 @@ First you should set the TensorRT path and CUDA path in CMakeLists.txt.
 compile
 
 ```
+git clone git@github.com:LIUHAO121/YOLOX_TensorRT_cpp.git
+cd YOLOX_TensorRT_cpp
 mkdir -p build
 cd build
 cmake ..
