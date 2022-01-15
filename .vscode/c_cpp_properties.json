@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/lhao/lib/clib/TensorRT-7.2.2.3/include",
+                "/usr/local/cuda/include",
+                // "/home/lhao/lib/clib/opencv/include",
+                "/home/lhao/lib/clib/opencv-master/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
